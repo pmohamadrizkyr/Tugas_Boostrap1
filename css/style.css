@@ -1,0 +1,27 @@
+#page{
+    background-color: rgb(255, 208, 0);
+}
+
+.video1 h5{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-weight: bold;
+    font-size: 28px;
+}
+
+.card{
+    margin-top: 20px;
+    margin-bottom: 100px;
+    border: 1px solid;
+}
+
+.card-body{
+    background-color: rgb(255, 208, 0);
+}
+
+#footer2{
+    background-color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: white;
+}
